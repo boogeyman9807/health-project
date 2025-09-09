@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 
 #  Web App Title
-st.title("Advanced Health Monitoring System")
+st.title("HealthTech")
 
 # Initialize session state for storing records
 if "records" not in st.session_state:
